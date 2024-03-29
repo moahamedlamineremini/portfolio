@@ -42,7 +42,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-subTitle: "Experienced Full Stack Developer with a Passion for Exploring Diverse Tech Stacks",
+subTitle: "Full Stack Developer with a Passion for Exploring Diverse Tech Stacks",
 skills: [
 emoji(
 "⚡ Develop dynamic and engaging front-end interfaces for web and mobile applications using technologies like Vue.js and React.js"
