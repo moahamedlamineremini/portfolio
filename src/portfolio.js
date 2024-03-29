@@ -61,11 +61,11 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
@@ -77,11 +77,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs(intermediate)",
+      skillName: "Reactjs(intermediate)",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs(begginer)",
+      skillName: "Nodejs(begginer)",
       fontAwesomeClassname: "fab fa-node"
     },
     {
@@ -89,11 +89,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-code"
     },
     {
-      skillName: "npm",
+      skillName: "Npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL Database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -101,7 +101,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-shield-alt"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
@@ -109,7 +109,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-php"
     },
     {
-      skillName: "symfony",
+      skillName: "Symfony",
       fontAwesomeClassname: "fab fa-symfony"
     },
     {
