@@ -23,7 +23,7 @@ const greeting = {
   username: "Remini Amine",
   title: "Hi all, I'm Mohamed Lamine",
   subTitle: emoji(
-    "Experienced developer proficient in Java, JavaScript, PHP, Python, and C, with a focus on web development using Vue.js, React.js, Node.js, HTML, CSS, Bootstrap, and Symfony. Familiar with design principles, Agile methodologies like SCRUM, and networking/security concepts such as OSI/TCP/IP models, VLANs, and cryptography. "
+    "With a strong passion for computer science, web development, and cybersecurity, I am driven to continuously expand my knowledge and skills in pursuit of professional growth and excellence in the field. "
   ),
   displayGreeting: true // Set false to hide this section, defaults to true
 };
