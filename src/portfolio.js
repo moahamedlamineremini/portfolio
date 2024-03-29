@@ -49,9 +49,6 @@ emoji(
 ),
 emoji("⚡ Build robust back-end systems with frameworks such as Symfony and Node.js"),
 emoji(
-"⚡ Integrate third-party services like Firebase, AWS, and Digital Ocean for enhanced functionality"
-),
-emoji(
 "⚡ Experience in PHP, Bash, Java, and C programming for various projects including web development, data management, and system-level programming"
 ),
 emoji(
